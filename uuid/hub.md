@@ -2,7 +2,7 @@
 A simply great integration to generate unique IDs within your bot. Generate IDs for users, organizations, or any other variable you need a unique identifier for.
 
 ## How it works
-This integration uses the [UUID library](https://www.npmjs.com/package/uuid) to generate a unique ID.
+This integration uses the [UUID library](https://www.npmjs.com/package/uuid) to generate a unique ID. You can see the full code for this integration here: https://github.com/SimplyGreatBots/uuid/tree/main/uuid
 
 ## Tutorial
 1. Add the 'Generate Id' card to a node in your Botpress bot.
